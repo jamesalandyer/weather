@@ -86,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				2B85C9E81CC3297500248559 /* Weather.swift */,
+				2B85C9EF1CC45C9D00248559 /* NSDateExtension.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -113,7 +114,6 @@
 			isa = PBXGroup;
 			children = (
 				2B85C9ED1CC41F0500248559 /* Constants.swift */,
-				2B85C9EF1CC45C9D00248559 /* NSDateExtension.swift */,
 			);
 			name = Util;
 			sourceTree = "<group>";
